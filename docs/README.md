@@ -1,5 +1,26 @@
 **English** | [简体中文](README_CN.md) | [繁體中文](README_TW.md) | [Türkçe](README_TR.md) | [Português (Brasil)](README_PT-BR.md) | [한국어](README_KO.md) | [Français](README_FR.md) | [Bahasa Indonesia](README_ID.md) | [Русский](README_RU.md) | [ภาษาไทย](README_TH.md)
+# KernelSU-Next - Archived Project
 
+This is a fork of the **KernelSU-Next** project, which was archived by the original author on February 11, 2025. The project is now in a **read-only** state and will no longer receive updates or maintenance.
+
+## Important Notes
+
+- The original author openly disparaged other root solutions like Magisk, claiming **KernelSU-Next** was vastly superior. However, these remarks were followed by the project's **archiving in less than 24 hours**.
+  
+- The rapid downfall of the project emphasizes that **open-source** is not just about code but also about respect, collaboration, and humility within the community.
+
+## Purpose of This Fork
+
+This fork serves to:
+
+- **Preserve** the code for learning and reference.
+- Act as a **warning** to remind other developers of the importance of consistency between words and actions.
+
+---
+
+### License
+
+This project inherits the same license as the original repository. All rights and restrictions are inherited from the original author.
 # KernelSU Next
 
 <img src="/assets/kernelsu_next.png" style="width: 96px;" alt="logo">
