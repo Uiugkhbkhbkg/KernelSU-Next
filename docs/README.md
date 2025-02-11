@@ -16,11 +16,6 @@ This fork serves to:
 - **Preserve** the code for learning and reference.
 - Act as a **warning** to remind other developers of the importance of consistency between words and actions.
 
----
-
-### License
-
-This project inherits the same license as the original repository. All rights and restrictions are inherited from the original author.
 # KernelSU Next
 
 <img src="/assets/kernelsu_next.png" style="width: 96px;" alt="logo">
